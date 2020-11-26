@@ -57,10 +57,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1kBPLBZeIpCAo5JwXloprUx3zlv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -68,10 +72,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../zookeeperdemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/server" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4269275" />
@@ -198,7 +203,7 @@
       <workItem from="1605232291394" duration="6151000" />
       <workItem from="1605678315963" duration="837000" />
       <workItem from="1605679452239" duration="47376000" />
-      <workItem from="1606096425363" duration="48680000" />
+      <workItem from="1606096425363" duration="48918000" />
     </task>
     <servers />
   </component>
@@ -226,10 +231,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="277" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605679070501" />
-    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1606356174355">
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1606364949580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1606356174355" />
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1606364949580" />
     <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1606269781025">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
